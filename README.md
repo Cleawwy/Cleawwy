@@ -1,5 +1,4 @@
 # 👋 Hey there, I’m Cleaver
----
 **Computer Engineering Student | Backend Developer & System Architect**
 
 ---
@@ -22,5 +21,3 @@
 **Concepts:** OOP, MVC Architecture, Data Structures, Algorithms, Problem Solving<br>
 **Tools:** Visual Studio, VS Code, Git, Linux, .NET<br>
 **Focus Areas:** Backend Systems & Structuring Core Systems<br>
-
----
